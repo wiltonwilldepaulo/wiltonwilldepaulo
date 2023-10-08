@@ -21,9 +21,8 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-    <a href="https://twitter.com/wiltonwilldepaulo" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="wiltonwilldepaulo" height="30" width="40" /></a>
+    <a href="https://wa.link/0xr5te" target="blank"><img align="center"
+            src="https://www.svgrepo.com/show/28155/whatsapp.svg" alt="wiltonwilldepaulo" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/wilton-will-de-paulo-972096244" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="wilton-will-de-paulo-972096244" height="30" width="40" /></a>
